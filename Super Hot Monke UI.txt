@@ -115,6 +115,7 @@ topbar.ZIndex = 3
 topbar.Image = "http://www.roblox.com/asset/?id=6373963359"
 topbar.ImageColor3 = Color3.fromRGB(25, 25, 25)
 topbar.ImageTransparency = 1.000
+topbar.Draggable = true
 
 title.Name = "title"
 title.Parent = topbar
